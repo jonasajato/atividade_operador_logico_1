@@ -1,4 +1,5 @@
 public class Exercicio_1 {
+\\Atividade de calculo com base em valores apresentados
     public static void main(String[] args) {
     int x = 1;
     int A = 3;
